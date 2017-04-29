@@ -1,0 +1,28 @@
+{
+  "name": "demo1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mainjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anupam2189/demo1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anupam2189/demo1/issues"
+  },
+  "homepage": "https://github.com/anupam2189/demo1#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "mocha": "^3.3.0",
+    "should": "^11.2.1",
+    "supertest": "^3.0.0"
+  }
+}
